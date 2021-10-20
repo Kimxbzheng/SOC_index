@@ -1,5 +1,5 @@
 # iPAGE v2.0
-## introduction
+## Introduction
 This code is used to extract reversal pairs intra- and inter-samples.
 
 *main.ipynb* contains the whole process.
