@@ -1,4 +1,4 @@
-# iPAGE v2.0
+# deiPAGE
 ## Introduction
 This code is used to extract reversal pairs intra- and inter-samples.
 
